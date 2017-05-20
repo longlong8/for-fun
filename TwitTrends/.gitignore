@@ -1,0 +1,6 @@
+#things don't need
+
+.idea/
+/nodeServer/node_modules/
+/nodeServer/config/
+/pythonWorker/config.py
